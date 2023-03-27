@@ -1,0 +1,8 @@
+const money = 12.00;
+var msg = "save";
+
+if (money <= 12.00) {
+  greeting = "save more";
+} else (
+document.write(msg);
+}
